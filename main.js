@@ -41,8 +41,8 @@ async function getDadJoke() {
   if (jokeObject.status === 200) {
     return jokeObject.joke;
   } else {
-    jokeButton.textContent = "You spelled 'Retrieving' wrong, dipshit.";
-    return "Here's where I'd put my dad joke. IF I HAD ONE! ˙ ͜ʟ˙ (Error retreiving joke)";
+    jokeButton.textContent = "You spelled 'retrieving' wrong, you idiot.";
+    return "Here's where I'd put my dad joke. IF I HAD ONE! (Error retreiving joke)";
   }
 }
 
