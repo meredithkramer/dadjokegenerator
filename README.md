@@ -1,4 +1,4 @@
-# Dad Joke Generator
+# [Dad Joke Generator](https://meredithkramer.github.io/dadjokegenerator)
 
 A simple HTML and JavaScript page for practicing fetching from an API
 
